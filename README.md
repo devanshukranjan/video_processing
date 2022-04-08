@@ -1,4 +1,4 @@
-# video_processing
+# Video Frame Converter
 
  In this project I have imported libraries like: 
  tkinter for creating GUI, 
